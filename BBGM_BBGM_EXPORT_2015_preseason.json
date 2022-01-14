@@ -48484,28 +48484,27 @@
       "ratings": [
         {
           "hgt": 37,
-          "stre": 65,
-          "spd": 65,
-          "jmp": 55,
+          "stre": 62,
+          "spd": 60,
+          "jmp": 51,
           "endu": 60,
           "ins": 66,
           "dnk": 75,
           "ft": 66,
           "fg": 62,
-          "tp": 58,
+          "tp": 53,
           "drb": 74,
           "pss": 65,
           "reb": 42,
-          "pot": 67,
+          "pot": 65,
           "skills": [
-            "B",
             "Ps",
             "V"
           ],
           "season": 2015,
-          "diq": 62,
+          "diq": 59,
           "oiq": 66,
-          "ovr": 67,
+          "ovr": 65,
           "pos": "G",
           "fuzz": -1.3867951473174003
         }
@@ -48642,10 +48641,10 @@
         }
       ],
       "relatives": [],
-      "value": 64.26194248529478,
-      "valueNoPot": 69.84993748401607,
-      "valueFuzz": 64.26194248529478,
-      "valueNoPotFuzz": 69.84993748401607
+      "value": 61.97830207374669,
+      "valueNoPot": 67.36771964537684,
+      "valueFuzz": 61.97830207374669,
+      "valueNoPotFuzz": 67.36771964537684
     },
     {
       "tid": 5,
@@ -65999,28 +65998,27 @@
         {
           "hgt": 33,
           "stre": 42,
-          "spd": 70,
+          "spd": 64,
           "jmp": 56,
           "endu": 60,
-          "ins": 73,
+          "ins": 67,
           "dnk": 72,
           "ft": 65,
           "fg": 69,
-          "tp": 68,
-          "drb": 69,
+          "tp": 61,
+          "drb": 64,
           "pss": 68,
           "reb": 39,
-          "pot": 64,
+          "pot": 62,
           "skills": [
             "3",
-            "B",
             "Ps",
             "V"
           ],
           "season": 2015,
           "diq": 51,
           "oiq": 69,
-          "ovr": 64,
+          "ovr": 62,
           "pos": "PG",
           "fuzz": 0.002721544681456578
         }
@@ -66154,10 +66152,10 @@
         }
       ],
       "relatives": [],
-      "value": 62.15901408249378,
-      "valueNoPot": 66.12661072605722,
-      "valueFuzz": 62.15901408249378,
-      "valueNoPotFuzz": 66.12661072605722
+      "value": 59.82572931417291,
+      "valueNoPot": 63.64439288741799,
+      "valueFuzz": 59.82572931417291,
+      "valueNoPotFuzz": 63.64439288741799
     },
     {
       "tid": 23,
@@ -128487,8 +128485,8 @@
     "otl": false,
     "pace": 96.31,
     "phase": 0,
-    "playIn": true,
-    "playerMoodTraits": true,
+    "playIn": false,
+    "playerMoodTraits": false,
     "playersRefuseToNegotiate": false,
     "playoffsByConf": true,
     "playoffsNumTeamsDiv": 0,
@@ -128532,7 +128530,7 @@
       },
       {
         "start": 2015,
-        "value": 29
+        "value": 15
       }
     ],
     "userTids": [
