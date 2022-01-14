@@ -370,7 +370,7 @@
           "fg": 61,
           "tp": 62,
           "drb": 72,
-          "pss": 73,
+          "pss": 65,
           "reb": 38,
           "pot": 64,
           "skills": [
@@ -382,7 +382,7 @@
           "season": 2015,
           "diq": 47,
           "oiq": 71,
-          "ovr": 64,
+          "ovr": 63,
           "pos": "PG",
           "fuzz": -2.0447002240167205
         }
@@ -529,10 +529,10 @@
         }
       ],
       "relatives": [],
-      "value": 64.47344545790578,
-      "valueNoPot": 66.12661072605722,
-      "valueFuzz": 64.47344545790578,
-      "valueNoPotFuzz": 66.12661072605722
+      "value": 63.32365919971507,
+      "valueNoPot": 64.91547788900142,
+      "valueFuzz": 63.32365919971507,
+      "valueNoPotFuzz": 64.91547788900142
     },
     {
       "tid": -2,
@@ -13690,25 +13690,24 @@
           "hgt": 51,
           "stre": 51,
           "spd": 68,
-          "jmp": 74,
+          "jmp": 76,
           "endu": 63,
           "ins": 63,
           "dnk": 65,
           "ft": 60,
           "fg": 67,
-          "tp": 62,
+          "tp": 60,
           "drb": 48,
           "pss": 41,
           "reb": 48,
-          "pot": 76,
+          "pot": 78,
           "skills": [
-            "3",
-            "V"
+            "3"
           ],
           "season": 2015,
-          "diq": 44,
-          "oiq": 54,
-          "ovr": 61,
+          "diq": 48,
+          "oiq": 53,
+          "ovr": 62,
           "pos": "SF",
           "fuzz": -0.2921600615792386
         }
@@ -13854,10 +13853,10 @@
         }
       ],
       "relatives": [],
-      "value": 74.50409593146463,
-      "valueNoPot": 62.40328396809838,
-      "valueFuzz": 74.50409593146463,
-      "valueNoPotFuzz": 62.40328396809838
+      "value": 76.60786712341626,
+      "valueNoPot": 63.67951064582655,
+      "valueFuzz": 76.60786712341626,
+      "valueNoPotFuzz": 63.67951064582655
     },
     {
       "tid": 0,
@@ -22064,7 +22063,7 @@
           "drb": 36,
           "pss": 53,
           "reb": 76,
-          "pot": 64,
+          "pot": 63,
           "skills": [
             "Di",
             "Po",
@@ -22072,9 +22071,9 @@
             "V"
           ],
           "season": 2015,
-          "diq": 59,
+          "diq": 54,
           "oiq": 54,
-          "ovr": 64,
+          "ovr": 63,
           "pos": "FC",
           "fuzz": -2.749138977935016
         }
@@ -22212,10 +22211,10 @@
         }
       ],
       "relatives": [],
-      "value": 61.49774797523322,
-      "valueNoPot": 66.12661072605722,
-      "valueFuzz": 61.49774797523322,
-      "valueNoPotFuzz": 66.12661072605722
+      "value": 60.378038316403156,
+      "valueNoPot": 64.92262184559479,
+      "valueFuzz": 60.378038316403156,
+      "valueNoPotFuzz": 64.92262184559479
     },
     {
       "tid": 21,
@@ -32219,27 +32218,31 @@
           "hgt": 66,
           "stre": 74,
           "spd": 53,
-          "jmp": 66.2,
-          "endu": 57.2,
-          "ins": 60.8,
-          "dnk": 57.2,
+          "jmp": 62,
+          "endu": 54,
+          "ins": 53,
+          "dnk": 57,
           "ft": 53,
-          "fg": 42.2,
-          "tp": 20,
-          "drb": 36.8,
-          "pss": 36.2,
-          "reb": 77,
-          "pot": 68,
-          "skills": [],
+          "fg": 42,
+          "tp": 17,
+          "drb": 36,
+          "pss": 36,
+          "reb": 80,
+          "pot": 67,
+          "skills": [
+            "A",
+            "Di",
+            "R"
+          ],
           "season": 2015,
-          "diq": 62,
-          "oiq": 38.6,
-          "ovr": 59,
-          "pos": "FC",
+          "diq": 58,
+          "oiq": 38,
+          "ovr": 57,
+          "pos": "C",
           "fuzz": 0.4966702630278377
         }
       ],
-      "pos": "FC",
+      "pos": "C",
       "hgt": 84,
       "weight": 270,
       "born": {
@@ -32373,10 +32376,10 @@
         }
       ],
       "relatives": [],
-      "value": 66.62305429378507,
-      "valueNoPot": 59.92106612945914,
-      "valueFuzz": 66.62305429378507,
-      "valueNoPotFuzz": 59.92106612945914
+      "value": 64.92262184559479,
+      "valueNoPot": 57.463954646985336,
+      "valueFuzz": 64.92262184559479,
+      "valueNoPotFuzz": 57.463954646985336
     },
     {
       "tid": -1,
@@ -44944,30 +44947,29 @@
       "tid": 13,
       "ratings": [
         {
-          "hgt": 44,
+          "hgt": 42,
           "stre": 37,
-          "spd": 66,
-          "jmp": 60,
+          "spd": 62,
+          "jmp": 58,
           "endu": 64,
-          "ins": 72,
+          "ins": 69,
           "dnk": 71,
           "ft": 72,
           "fg": 76,
-          "tp": 62,
+          "tp": 59,
           "drb": 71,
-          "pss": 65,
-          "reb": 40,
-          "pot": 64,
+          "pss": 63,
+          "reb": 39,
+          "pot": 63,
           "skills": [
             "3",
-            "B",
             "Ps",
             "V"
           ],
           "season": 2015,
           "diq": 47,
           "oiq": 68,
-          "ovr": 64,
+          "ovr": 63,
           "pos": "SG",
           "fuzz": 0.04625068001131538
         }
@@ -45109,10 +45111,10 @@
         }
       ],
       "relatives": [],
-      "value": 60.17521576071208,
-      "valueNoPot": 66.12661072605722,
-      "valueFuzz": 60.17521576071208,
-      "valueNoPotFuzz": 66.12661072605722
+      "value": 59.07958587949126,
+      "valueNoPot": 64.92262184559479,
+      "valueFuzz": 59.07958587949126,
+      "valueNoPotFuzz": 64.92262184559479
     },
     {
       "tid": -2,
@@ -52875,19 +52877,22 @@
         {
           "hgt": 37,
           "stre": 32,
-          "spd": 65.6,
-          "jmp": 53.6,
+          "spd": 65,
+          "jmp": 53,
           "endu": 59,
           "ins": 53,
-          "dnk": 53.6,
-          "ft": 68.6,
-          "fg": 60.8,
+          "dnk": 53,
+          "ft": 68,
+          "fg": 60,
           "tp": 62,
-          "drb": 70.4,
+          "drb": 70,
           "pss": 74,
-          "reb": 36.8,
-          "pot": 62,
-          "skills": [],
+          "reb": 36,
+          "pot": 63,
+          "skills": [
+            "3",
+            "Ps"
+          ],
           "season": 2015,
           "diq": 50,
           "oiq": 65,
@@ -53040,10 +53045,10 @@
         }
       ],
       "relatives": [],
-      "value": 62.77561664389426,
-      "valueNoPot": 62.40328396809838,
-      "valueFuzz": 62.77561664389426,
-      "valueNoPotFuzz": 62.40328396809838
+      "value": 63.182266165919245,
+      "valueNoPot": 62.4363994460583,
+      "valueFuzz": 63.182266165919245,
+      "valueNoPotFuzz": 62.4363994460583
     },
     {
       "tid": 17,
@@ -128114,7 +128119,7 @@
   ],
   "gameAttributes": {
     "aiJerseyRetirement": true,
-    "aiTradesFactor": 1,
+    "aiTradesFactor": 0,
     "allStarGame": 0.7,
     "autoDeleteOldBoxScores": true,
     "blockFactor": 1,
@@ -128530,7 +128535,7 @@
       },
       {
         "start": 2015,
-        "value": 15
+        "value": 17
       }
     ],
     "userTids": [
